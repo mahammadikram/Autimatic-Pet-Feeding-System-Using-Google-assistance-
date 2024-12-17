@@ -1,2 +1,2 @@
-# Autimatic-Pet-Feeding-System-Using-Google-assistance-
+# Automatic-Pet-Feeding-System-Using-Google-assistance-
 Engineering Major project 
